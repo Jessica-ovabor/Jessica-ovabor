@@ -59,7 +59,7 @@ I'm a friendly Software Engineer,Writer and Designer while studying at AltSchool
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jessica-ovabor &show_icons=true&include_all_commits=true&hide_border=true" alt="Jessica's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessica-ovabor&langs_count=8&layout=compact&hide_border=true" alt="Jessica's GitHub stats" />
+<img align="center" src="https:// | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessica-ovabor&langs_count=8&layout=compact&hide_border=true" alt="Jessica's GitHub stats" />
 | ------------- | ------------- |
 
  
