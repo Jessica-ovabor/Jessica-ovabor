@@ -14,7 +14,7 @@
   Hello and Welcome! 👋🏾
 </h1>
 
-I'm a friendly Software Engineer,Writer and Designer while studying at AltSchool Africa. I'm passionate about learning, teaching, web development, discovering & solving problems (in communication, tech and health), creating & maintaining healthy connections, and having a positive impact.
+I'm a friendly software engineer, technical writer, and product designer currently studying computer science at Ambrose Alli University. My passion lies in the exciting field of computational biology and medicine, and I strive to learn, grow, and solve problems in this space. I also enjoy teaching, creating and maintaining meaningful connections, and making a positive impact in everything I do.
 
 **Here's a quick summary about me**:
 
@@ -23,8 +23,8 @@ I'm a friendly Software Engineer,Writer and Designer while studying at AltSchool
 - 🌱 I’m currently learning Backend Engineering with Python (Flask), while practicing Frontend Engineering (HTML, CSS & JS), Technical Writing, DSA and Open Source Contribution at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 😊 I’m looking for help with open source projects, hackathons, internships, job opportunities, and startup partnerships.
 - 💼 Job interests: Software Engineering, Technical Writing, Community Management, Editing, Quality Assurance, Search Engine Evaluation, Leadership, Healthcare Software.
-- 👉 Read my articles in [Jessiwrites](https://ovaborjessica.hashnode.dev) on Hashnode.
-- 📫 You can contact me via Twitter: [@Jessicaovabor](https://twitter.com/JessicaOvabor) or email: ovaborjessica85@gmail.com.
+- 👉 Read my articles in [JessiWrites](https://ovaborjessica.hashnode.dev) on Hashnode.
+- 📫 You can contact me via Twitter: [@Jessicaovabor](https://twitter.com/JessicaOvabor) or email: jessica@ovabor.com.
 
 ---
 
