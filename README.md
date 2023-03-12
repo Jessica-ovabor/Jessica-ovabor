@@ -24,7 +24,7 @@ I'm a friendly software engineer, technical writer, and product designer current
 - 😊 I’m looking for help with open source projects, hackathons, internships, job opportunities, and startup partnerships.
 - 💼 Job interests: Software Engineering, Technical Writing, Community Management, Editing, Quality Assurance, Search Engine Evaluation, Leadership, Healthcare Software.
 - 👉 Read my articles in [JessiWrites](https://ovaborjessica.hashnode.dev) on Hashnode.
-- 📫 You can contact me via Twitter: [@Jessicaovabor](https://twitter.com/JessicaOvabor) or email: jessica@ovabor.com.
+- 📫 You can contact me via Twitter: [Jessica](https://twitter.com/jovabor).
 
 ---
 
