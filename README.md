@@ -23,7 +23,7 @@ I'm a friendly software engineer, technical writer, and product designer current
 - 🌱 I’m currently learning Backend Engineering with Python (Flask), while practicing Frontend Engineering (HTML, CSS & JS), Soft Skills ,Technical Writing, DSA and Open Source Contribution at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 😊 I’m looking for help with open source projects, hackathons, internships, job opportunities,  and startup partnerships.
 - 💼 Job interests: Software Engineering, Technical Writing,Quality Assurance, Healthcare Software.
-- 👉 Read my articles in [JessiWrites](https://ovaborjessica.hashnode.dev) on Hashnode.
+- 👉 Read my articles in [JessiWrites](https://medium.com/@jessicaovabor) on Medium.
 - 📫 You can contact me via Twitter: [Jessica](https://twitter.com/jovabor).
 
 ---
@@ -41,6 +41,8 @@ I'm a friendly software engineer, technical writer, and product designer current
 <div align="center">
   
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+  ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
   ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
   ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
