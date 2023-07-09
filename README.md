@@ -24,7 +24,7 @@ I'm a friendly software engineer, technical writer, and product designer current
 - 😊 I’m looking for help with open source projects, hackathons, internships, job opportunities,  and startup partnerships.
 - 💼 Job interests: Software Engineering, Technical Writing,Quality Assurance, Healthcare Software.
 - 👉 Read my articles in [JessiWrites](https://medium.com/@jessicaovabor) on Medium.
-- 📫 You can contact me via Twitter: [Jessica](https://twitter.com/jovabor) or email - [Email]ovaborjessica85@gmail.com.
+- 📫 You can contact me via Twitter: [Jessica](https://twitter.com/jovabor) or Email : [Email](ovaborjessica85@gmail.com).
 
 ---
 
@@ -61,7 +61,7 @@ I'm a friendly software engineer, technical writer, and product designer current
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jessica-ovabor&show_icons=true&include_all_commits=true&hide_border=true" alt="Austin's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessica-ovabor&langs_count=8&layout=compact&hide_border=true" alt="Jessica's GitHub stats" />
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jessica-ovabor&show_icons=true&include_all_commits=true&hide_border=true" alt="Jessica's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessica-ovabor&langs_count=8&layout=compact&hide_border=true" alt="Jessica's GitHub stats" />
 | ------------- | ------------- |
 | ------------- | ------------- |
 
