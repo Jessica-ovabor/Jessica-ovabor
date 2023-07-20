@@ -11,20 +11,20 @@
 </div>
 
 <h1 align="center">
-  Hello and Welcome! 👋🏾
+  Hello, My name is Jessica! 👋🏾
 </h1>
 
-I'm a friendly software engineer, technical writer, and product designer currently studying computer science at Ambrose Alli University. My passion lies in the exciting field of computational biology and medicine, and I strive to learn, grow, and solve problems in this space. I also enjoy teaching, creating and maintaining meaningful connections, and making a positive impact in everything I do.
+I'm a software engineer who also loves to write and design products. I studied Computer Science at Ambrose Alli University and also studied at AltSchool Africa where I developed my tech skills. My biggest interest is using computers to help with biology and medicine.
 
-**Here's a quick summary about me**:
+**Here's a bit about me:**:
 
-- 👨‍💻 Pronouns: She/Her.
-- 💡 Fun facts: I'm always available for networking . I'm good at playing games like dust settle. Taking up new challenges interest me the most,I find happiness in the littlest things around me. ❤️ 
-- 🌱 I’m currently learning Backend Engineering with Python (Flask), while practicing Frontend Engineering (HTML, CSS & JS), Soft Skills ,Technical Writing, DSA and Open Source Contribution at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 😊 I’m looking for help with open source projects, hackathons, internships, job opportunities,  and startup partnerships.
-- 💼 Job interests: Software Engineering, Technical Writing,Quality Assurance, Healthcare Software.
-- 👉 Read my articles in [JessiWrites](https://medium.com/@jessicaovabor) on Medium.
-- 📫 You can contact me via Twitter: [Jessica](https://twitter.com/jovabor) or Email : [Email](ovaborjessica85@gmail.com).
+- 👨‍💻 My pronouns are She/Her.
+- 🎲 Fun facts: I like to meet new people and play games like 'Dust Settle'. I love to tackle new challenges and find joy in the little things around me. ❤️ 
+- 🎓 I learned a lot about Software Engineering at [AltSchool Africa]([School of Software Engineering](https://altschoolafrica.com/schools/engineering)), including Python, frontend Engineering, backend engineering, and other important tech skills. I graduated in 2023.
+- 👋 I’m looking to work on open source projects, join hackathons, internships, and jobs, and partner with startups.
+- 🎯 Job interests: I love Software Engineering, Technical Writing, Quality Assurance, and working on healthcare software.
+- ✍️ You can read my articles on [JessiWrites](https://medium.com/@jessicaovabor) on Medium.
+- 📨 You can reach out to me on [Twitter](https://twitter.com/jovabor) or by [Email](jessica@ovabor.com).
 
 ---
 
