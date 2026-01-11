@@ -14,13 +14,13 @@
   Hello, My name is Jessica! 👋🏾
 </h1>
 
-I'm a software engineer who also loves to write and design products. I studied Computer Science at Ambrose Alli University and also studied at AltSchool Africa where I developed my tech skills. My biggest interest is using computers to help with biology and medicine.
+I'm a software engineer who also loves to write and design products. I studied Computer Science at Ambrose Alli University and also studied at AltSchool where I developed my tech skills. My biggest interest is using computers to help with biology and medicine.
 
 **Here's a bit about me:**:
 
 - 👨‍💻 My pronouns are She/Her.
 - 🎲 Fun facts: I like to meet new people and play games like 'Dust Settle'. I love to tackle new challenges and find joy in the little things around me.
-- 🎓 I learned a lot about Software Engineering at [AltSchool Africa](https://altschoolafrica.com/schools/engineering) , including Python, frontend Engineering, backend engineering, and other important tech skills. I graduated in 2023.
+- 🎓 I learned a lot about Software Engineering at [AltSchool](https://altschoolafrica.com/schools/engineering) , including Python, frontend Engineering, backend engineering, and other important tech skills. I graduated in 2023.
 - 👋 I’m looking to work on open source projects, join hackathons, internships, and jobs, and partner with startups.
 - 🎯 Job interests: I love Software Engineering, Technical Writing, Quality Assurance, and working on healthcare software.
 - ✍️ You can read my articles on [JessiWrites](https://medium.com/@jessicaovabor) on Medium.
