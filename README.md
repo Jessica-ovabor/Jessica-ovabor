@@ -15,7 +15,7 @@
   Hello, I'm Jessica! 👋🏾
 </h1>
 
-I'm a PhD candidate in **Computational Biology** at the **University of Melbourne**. I'm a software engineer turned computational biologist, and I love building tools that help us understand biology and medicine.
+I'm a PhD student in **Computational Biology** at the **University of Melbourne**. I'm a software engineer turned computational biologist, and I love building tools that help us understand biology and medicine.
 
 **Here's a bit about me:**
 
