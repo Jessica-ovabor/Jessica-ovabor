@@ -32,12 +32,11 @@ I'm a PhD student in **Computational Biology** at the **University of Melbourne*
 <h2 align="center">
   🤝 Open-source contributions
 </h2>
+
 - **nf-core/modules:** new [CoGAPS](https://bioconductor.org/packages/CoGAPS) module for Bayesian non-negative matrix factorisation, with tests across Docker, Singularity and conda (under review: [nf-core/modules#13443](https://github.com/nf-core/modules/pull/13443)).
 - **Bioconda:** fixed the `bioconductor-cogaps` recipe so CoGAPS ships with OpenMP multithreading enabled for conda and container users, with a test to prevent regressions (merged: [bioconda/bioconda-recipes#70579](https://github.com/bioconda/bioconda-recipes/pull/70579)).
 - **CoGAPS (Bioconductor):** reported that the released `configure` script still builds without OpenMP, with a tested fix ([FertigLab/CoGAPS#166](https://github.com/FertigLab/CoGAPS/issues/166)).
 - **ShinyButchR:** fix for the interactive NMF Shiny app built on ButchR (PR open upstream).
-
-I'm always happy to collaborate on open-source bioinformatics, especially Nextflow / nf-core and research software.
 
 ---
 
